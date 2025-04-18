@@ -66,8 +66,7 @@
 
 <body>
   <header>
-    <h1>Semeadores de Cristo</h1>
-    <p>Versículo • Reflexão • Ação • Anotações</p>
+    <h3>Versículo • Reflexão • Ação • Anotações</h3>
   </header>
 
   <main>
